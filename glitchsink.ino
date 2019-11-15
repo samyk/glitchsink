@@ -12,7 +12,7 @@
  * It's likely that if bypass capacitors were removed from target,
  * the attack would simply happen "slightly later"
  *
- * Simplest setup uses MAX4619 + 10uF cap on Y1
+ * Simplest setup uses MAX4619 + 470uF cap on Y1
  */
 
 /*

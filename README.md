@@ -13,4 +13,4 @@ Upon mux'ing to glitch voltage level, glitch side sinks current from target devi
 
 It's likely that if bypass capacitors were removed from target, the attack would simply happen "slightly later" (clock cycle or more?)
 
-Simplest setup uses MAX4619 + 10uF cap on Y1, or variable resistance with digital potentiometer
+Simplest setup uses MAX4619 + 470uF cap on Y1, or variable resistance with digital potentiometer
