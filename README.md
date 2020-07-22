@@ -8,7 +8,7 @@ Additionally, while I initially built glitchsink in Verilog using the Artix-7 XC
 
 -----------------------------
 
-Initially developed in Verilog for the Entirely non-invasive Teensy-based (3.x, 4.0) Voltage Glitcher for bypassing instructions & bootloader protection for flash dumping. Was first designed to extract secret keys from protected chips inside of acccess control locks without breaking plastic or altering PCBs and works across a wide range of manufacturers and models, examples such as LPC1343, ATmega328P, nRF52, and more.
+Initially developed in Verilog for the Entirely non-invasive Teensy-based (3.x, 4.0) Voltage Glitcher for bypassing instructions & bootloader protection for flash dumping. Was first designed to extract secret keys from protected chips inside of acccess control locks without breaking plastic or altering PCBs and works across a wide range of manufacturers and models, examples such as the LPC1343, ATmega328P, and others.
 
 -samy kamkar, 2019/10/14
 
